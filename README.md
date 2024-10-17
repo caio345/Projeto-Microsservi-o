@@ -1,5 +1,5 @@
 # Projeto-Microsservi-o
-Trabalho feito por : Wiliam Felix, Caio césar, Vitor Caue, José Felipe
+Projeto de Microsserviços feito por : Wiliam Felix, Caio césar, Vitor Caue, José Felipe
 
 Linkedin de wiliam Felix : https://www.linkedin.com/in/william-felix-souza/
 Git-hub de wiliam Felix : https://github.com/willfelixd
